@@ -8,4 +8,4 @@ Gurupos seleccionados de diseño
 
 imagen añadida desde la casa
 
-![foto lugar](/imagenlugar.jpg)
+![foto lugar](imagenes/lugar.jpg)
